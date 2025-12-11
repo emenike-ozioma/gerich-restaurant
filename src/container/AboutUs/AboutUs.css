@@ -44,6 +44,9 @@
         height: 400px;
     }
 }
-/* @media screen and (max-width:650px) {
-
-} */
+@media screen and (max-width:350px) {
+    .app__aboutus-overlay,
+    .app__aboutus-overlay img {
+        width: 100%;
+    }
+}
