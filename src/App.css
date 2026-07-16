@@ -31,7 +31,6 @@
   justify-content: center;
   align-items: flex-start;
   flex-direction: column;
-  margin-top: 4rem;
 }
 
 .app__wrapper_img {
@@ -135,10 +134,6 @@
 
   .app__wrapper_img-reverse {
     margin: 0 0 5rem 0;
-  }
-
-  .app__wrapper_img img {
-    width: 100%;
   }
 }
 
